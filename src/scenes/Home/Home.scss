@@ -1,0 +1,15 @@
+.card-home{
+    @include cardBlue(12px,$secundary-color);
+    width: 20%;
+    height: 400px;
+}
+.container-main__content{
+    margin-left: 5%;
+    margin-right: 5%;;
+    background: rgb(255, 255, 255);
+    height: 100%;
+}
+.ant-layout-content{
+    flex: auto;
+    min-height: 0;
+}

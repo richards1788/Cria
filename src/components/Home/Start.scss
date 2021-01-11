@@ -1,0 +1,50 @@
+.yours-custom-class {
+  width: 100% !important;
+  height: 700px !important;
+}
+
+.img-slider {
+  width: 100% !important;
+  height: 700px !important;
+  align-content: center !important;
+}
+
+.alice-carousel__dots {
+  margin: -20px 3px 5px !important;
+  padding: 0;
+  list-style: armenian !important;
+  text-align: center;
+  flex: 1;
+}
+.transboxSt {
+  width: 100%;
+  height: 100%;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 0.2% 0;
+}
+.alice-carousel__dots-item {
+  width: 8px;
+  height: 8px;
+  cursor: pointer;
+  border-radius: 50%;
+  visibility: visible;
+  position: relative;
+}
+
+.imglogo {
+ position: absolute;
+  margin: auto;
+
+}
+.divlogo {
+  width: 20% !important;
+  height: 30% !important;
+  position: absolute !important; 
+  display: block !important; 
+  overflow: hidden !important; 
+  padding: 20px;
+  margin: auto;
+}

@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "services":"Palpación",
+        "description":"CRIA ofrece el servicio de palpación para que conosca el estado reproductivos de su hato",
+        "img":"vaca.jpg"
+
+    },{
+        "id": 2,
+        "services":"Inseminación",
+        "description":"CRIA ofrece el servicio de palpación para que conosca el estado reproductivos de su hato",
+        "img":"oveja.jpg"
+    },{
+        "id": 3,
+        "services":"Cirugías",
+        "description":"CRIA ofrece el servicio de palpación para que conosca el estado reproductivos de su hato",
+        "img":"ternero.jpg"
+    },{
+        "id": 4,
+        "services":"Planificación Predial",
+        "description":"CRIA ofrece el servicio de palpación para que conosca el estado reproductivos de su hato",
+        "img":"genetica.png"
+    },{
+        "id": 5,
+        "services":"Laboratorio",
+        "description":"CRIA ofrece el servicio de palpación para que conosca el estado reproductivos de su hato",
+        "img":"laboratorio.jpg"
+    },{
+        "id": 6,
+        "services":"Venta de Genética",
+        "description":"CRIA ofrece el servicio de palpación para que conosca el estado reproductivos de su hato",
+        "img":"semilla.jpg"
+    }
+]

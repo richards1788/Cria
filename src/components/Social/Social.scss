@@ -1,0 +1,16 @@
+.float {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    z-index: 1;
+    width: 60px;
+    height: 60px;
+    bottom: 60px;
+    right: 20px;
+    background-color: #28692b;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    box-shadow: 2px 6px 6px rgb(81, 175, 78);
+}

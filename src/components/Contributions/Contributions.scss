@@ -1,0 +1,58 @@
+.parallax {
+  background-image: url('https://cdn.pixabay.com/photo/2020/01/21/03/25/nature-4781983_1280.jpg');
+  height: 80%;
+  background-attachment: fixed;
+  background-position: 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 5%;
+  opacity: 0.7;
+}
+ .boxCon {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  padding: 2% 0;
+  
+} 
+.contentParallax{
+    width: 30%;
+    height: 30%;
+    margin: 10px;
+    justify-content: center;
+}
+.textParallax{
+    font-size: 25px;
+    font-family: Roboto;
+    text-decoration: dotted;
+    color: rgb(255, 255, 255);
+    align-content: center;
+    text-align: justify;
+    display: flex;
+    justify-content: center;
+  }
+
+  .textSubtitleParallax{
+    font-size: 30px;
+    font-family: Roboto;
+    text-decoration: dotted;
+    color: rgb(255, 255, 255);
+    align-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+
+  .titleParallax{
+    font-size: 40px;
+    font-family: Roboto;
+    font-weight: bold;
+    text-decoration: dotted;
+    color: rgb(255, 255, 255);
+    align-content: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
