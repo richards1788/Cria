@@ -23,7 +23,10 @@ export const Certificate = () => {
     <div >
             <span className="tittle">Entes Certificadores</span>
             <div className="divCarrusel">
-                <AliceCarousel mouseTracking items={items} />
+                <AliceCarousel 
+                mouseTracking items={items} 
+                autoPlayInterval
+                controlsStrategy={'responsive'} />
             </div>
         </div> 
   );
